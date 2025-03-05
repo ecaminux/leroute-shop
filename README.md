@@ -1,2 +1,2 @@
 # leroute-shop
-Tienda en Linea
+Tienda en Linea para la venta de equipos tecnológicos.
